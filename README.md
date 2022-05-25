@@ -8,7 +8,7 @@
     <img alt="Python ^" src="https://img.shields.io/static/v1?label=Code&message=Python&color=brightgreen"/>
   </a>
   <a href="https://github.com/RayhanZuck">
-    <img alt="Update Terakhir" src="https://img.shields.io/badge/Update%20Terakhir-12Maret-orange"/>
+    <img alt="Update Terakhir" src="https://img.shields.io/badge/Update%20Terakhir-26Mei-orange"/>
   </a>
    <a href="https://github.com/RayhanZuck">
     <img alt="Ukuran Repo" src="https://img.shields.io/badge/Ukuran%20Repo-371.40KB-blue"/>
@@ -24,7 +24,7 @@
 
 ## Pasang Dan Menjalankan
 ```sh
-git clone https://github.com/RayhanZuck/FBShare
-cd FBShare
-python run.py
+git clone https://github.com/RayhanZuck/BrutalSpam
+cd BrutalSpam
+python spam.py
 ```
