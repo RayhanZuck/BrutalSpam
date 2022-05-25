@@ -31,6 +31,7 @@
 ## + Spam WhatsApp
 <img alt="Rayhan" src="https://raw.githubusercontent.com/RayhanZuck/BrutalSpam/main/IMAGE/Screenshot_2022-05-26-03-22-16-165_com.gbwhatsapp-picsay.jpg"/>
 
+## Spam Sms, WhatsApp Dan Telepon Sekaligus🥵
 ## Pasang Dan Menjalankan
 ```sh
 git clone https://github.com/RayhanZuck/BrutalSpam
