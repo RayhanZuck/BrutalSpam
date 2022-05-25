@@ -1,4 +1,4 @@
-<h1 align="center"><b>Sebuah Tools Untuk Spam Sms/ Ngeprank Temen😈</b></h1>
+<h1 align="center"><b>Sebuah Tools Untuk Spam Sms atau Ngeprank Temen😈</b></h1>
 
 <div align="center">
   
