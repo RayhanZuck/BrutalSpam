@@ -27,6 +27,7 @@
 
 ## Hasil Spam
 <img alt="Rayhan" src="https://raw.githubusercontent.com/RayhanZuck/BrutalSpam/main/IMAGE/IMG_20220526_031929-picsay.jpg"/>
+
 ## + Spam WhatsApp
 <img alt="Rayhan" src="https://raw.githubusercontent.com/RayhanZuck/BrutalSpam/main/IMAGE/Screenshot_2022-05-26-03-22-16-165_com.gbwhatsapp-picsay.jpg"/>
 
