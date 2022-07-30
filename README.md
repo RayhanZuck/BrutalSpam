@@ -2,8 +2,8 @@
 
 <div align="center">
   
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" style="display:block; margin:auto;" widht="1000"/>
+</a>
   <a href="https://github.com/RayhanZuck">
     <img alt="Python ^" src="https://img.shields.io/static/v1?label=Code&message=Python&color=brightgreen"/>
   </a>
