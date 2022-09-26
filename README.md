@@ -17,7 +17,7 @@
     <img alt="Starts" src="https://img.shields.io/badge/facebook:%20Rayhan%20Business-344E86?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/Rayhan.27.Xyz">
-    <img alt="Starts" src="https://img.shields.io/badge/facebook:%20Rayhan%20Cringe%20Ajg-344E86?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img alt="Starts" src="https://img.shields.io/badge/facebook:%20Rayhan%2027-344E86?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://github.com/RayhanZuck">
     <img alt="Forks" src="https://img.shields.io/badge/Github:%20RayhanZuck-lightgrey?style=for-the-badge&logo=github&logoColor=white"/>
